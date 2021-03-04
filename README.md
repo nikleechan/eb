@@ -119,7 +119,7 @@ https://imrbq.cn/exp/emby_hack.html
 证书申请
 国密网址：https://www.gmcert.org/subForm
 
-<br><img src="https://raw.githubusercontent.com/eb/master/shiguangzhou.png"><br>
+<br><img src="https://raw.githubusercontent.com/nikleechan/eb/master/shiguangzhou.png"><br>
 
 <br><img src="https://raw.githubusercontent.com/nikleechan/eb/master/shiguangzhou1.png"><br>
 
