@@ -1,12 +1,12 @@
 # eb
-使用前先将该仓库设置为公开
-settings——>Change repository visibility
-Change repository visibility
-说明：这个教程属于我复制hangaj的，他可能也是复制于其他人。
+<br/>使用前先将该仓库设置为公开
+<br/>settings——>Change repository visibility
+
+<br/>说明：这个教程属于我复制hangaj的，他可能也是复制于其他人。
 复制这个教程的原因是我安装的时候，代码里面的链接已经失效，所以我复制一遍方便修改代码。
 如有侵权请联系我删除。
 
-同时，结合时光轴教程进一步整合了证书申请内容。
+<br/>同时，我结合时光轴教程进一步整合了证书申请内容。
 
 
 
