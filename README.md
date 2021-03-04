@@ -118,15 +118,16 @@ https://imrbq.cn/exp/emby_hack.html
 
 证书申请
 国密网址：https://www.gmcert.org/subForm
-
+<br/>
 <br/>![](https://github.com/nikleechan/eb/blob/master/shiguangzhou.png)
-
+<br/>
+<br/>
 <br/>![](https://github.com/nikleechan/eb/blob/master/shiguangzhou1.png)
-
+<br/>
 说明：
 国密证书（guomi.crt）即文件mb3admin.com.cert.pem内容中的第二部分
- 如：mb3admin.com.cert.pem内容为：
------BEGIN CERTIFICATE-----
+ 如：mb3admin.com.cert.pem内容为：<br/>
+</p><pre><code>-----BEGIN CERTIFICATE-----
 MIIEIjCCAwqgAwIBAgIJAL0OjFdDMG5hMA0GCSqGSIb3DQEBCwUAMGgxCzAJBgNV
 BAYTAkNOMRAwDgYDVQQIDAdCZWlqaW5nMRAwDgYDVQQHDAdIYWlEaWFuMRMwEQYD
 VQQKDApHTUNlcnQub3JnMSAwHgYDVQQDDBdHTUNlcnQgUlNBIFJvb3QgQ0EgLSAw
@@ -172,11 +173,11 @@ dBuh2vjZee9L/NV2ZRcxpwp9e561+JBXoHvZ0JHDBGQ0WYsJ+m9fRxCR12oIVWWv
 SAjbyetRRO+oTvi3dX2OQUgJhflS4/cxQblYxgL5nMIa+MVamXUNNfwEk3TZh4K/
 NgtQY5KraEUU7bCkbbKdX2r+njobTQpbBV8uZ/JwsNghx4gfB+3QrteVfceQ+ip+
 CpEU9X3JD9WkxEVFKBa0Q+TllSny07of0cWmRuwZlLUruBJD
------END CERTIFICATE-----
+-----END CERTIFICATE-----</code></pre>
 
 
-则根证书(guomi.crt)内容为
------BEGIN CERTIFICATE-----
+则根证书(guomi.crt)内容为：<br/>
+</p><pre><code>-----BEGIN CERTIFICATE-----
 MIIDsDCCApigAwIBAgIJAMjrH5w5KmnFMA0GCSqGSIb3DQEBCwUAMGgxCzAJBgNV
 BAYTAkNOMRAwDgYDVQQIDAdCZWlqaW5nMRAwDgYDVQQHDAdIYWlEaWFuMRMwEQYD
 VQQKDApHTUNlcnQub3JnMSAwHgYDVQQDDBdHTUNlcnQgUlNBIFJvb3QgQ0EgLSAw
@@ -197,6 +198,6 @@ dBuh2vjZee9L/NV2ZRcxpwp9e561+JBXoHvZ0JHDBGQ0WYsJ+m9fRxCR12oIVWWv
 SAjbyetRRO+oTvi3dX2OQUgJhflS4/cxQblYxgL5nMIa+MVamXUNNfwEk3TZh4K/
 NgtQY5KraEUU7bCkbbKdX2r+njobTQpbBV8uZ/JwsNghx4gfB+3QrteVfceQ+ip+
 CpEU9X3JD9WkxEVFKBa0Q+TllSny07of0cWmRuwZlLUruBJD
------END CERTIFICATE-----
+-----END CERTIFICATE-----</code></pre>
 
 
