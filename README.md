@@ -118,12 +118,11 @@ https://imrbq.cn/exp/emby_hack.html
 
 证书申请
 国密网址：https://www.gmcert.org/subForm
-<br/>
-<br/>![](https://github.com/nikleechan/eb/blob/master/shiguangzhou.png)
-<br/>
-<br/>
-<br/>![](https://github.com/nikleechan/eb/blob/master/shiguangzhou1.png)
-<br/>
+
+<br><img src="https://github.com/nikleechan/eb/blob/master/shiguangzhou.png"><br>
+
+<br><img src="https://github.com/nikleechan/eb/blob/master/shiguangzhou1.png"><br>
+
 说明：
 国密证书（guomi.crt）即文件mb3admin.com.cert.pem内容中的第二部分
  如：mb3admin.com.cert.pem内容为：<br/>
