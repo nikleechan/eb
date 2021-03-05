@@ -5,10 +5,13 @@
 <br/>说明：这个教程属于我复制hangaj的，他可能也是复制于其他人。
 复制这个教程的原因是我安装的时候，代码里面的链接已经失效，所以我复制一遍方便修改代码。
 如有侵权请联系我删除。
-
 <br/>同时，我结合时光轴教程进一步整合了证书申请内容。
 
-
+<br/>此法需在群晖套件中心安装emby套件
+<br/>法1：添加emby源,直接社区安装。套件源地址：<br/>
+</p><pre><code>https://synology.emby.media</code></pre>
+<br/>法2：去emby官网下载对应版本，套件中心手动安装。官网地址：<br/>
+</p><pre><code>https://emby.media/synology-server.html</code></pre>
 
 ### embyonekey
 
